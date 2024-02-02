@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.h1{
+  font-family: 'El Messiri', sans-serif;
+  font-weight: 500;
+  
+}
+.h2{
+  font-family: 'Roboto', sans-serif ;
+  font-weight: 300;
+
+}
+.h3{
+  font-family: 'Yeseva One', cursive;
+  font-weight: 200;
+}
+.p{
+  font-family: 'Roboto Mono', monospace;
+  
+}
